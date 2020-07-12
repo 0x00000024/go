@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 // ---------------------------------------------------------
 // EXERCISE: Shy Semicolons
 //
@@ -23,7 +21,7 @@ func main() {
 	//
 	// It adds them automatically after all.
 
-	fmt.Println("inanc")
-	fmt.Println("lina")
-	fmt.Println("ebru")
+	/*
+		fmt.Println("inanc"); fmt.Println("lina"); fmt.Println("ebru");
+	*/
 }
